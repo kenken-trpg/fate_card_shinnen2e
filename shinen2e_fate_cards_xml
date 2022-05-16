@@ -1,3 +1,8 @@
+# 朱鷺田祐介/スザク・ゲームズ/エンターブレイン
+# 運命カードの著作権は上記により保持されています。
+# このユドナリウム用カードパックは著作権者の許諾により作成されています。
+# http://suzakugames.cocolog-nifty.com/blog/2021/10/post-19fa51.html
+
 <?xml version="1.0" encoding="UTF-8"?>
 <card-stack location.name="table" location.x="0" location.y="0" posZ="0" rotate="0" zindex="0" owner="" isShowTotal="true">
   <data name="card-stack">
