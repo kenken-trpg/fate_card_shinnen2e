@@ -1,0 +1,1302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card-stack location.name="table" location.x="0" location.y="0" posZ="0" rotate="0" zindex="0" owner="" isShowTotal="true">
+  <data name="card-stack">
+    <data name="image">
+      <data type="image" name="imageIdentifier"></data>
+    </data>
+    <data name="common">
+      <data name="name">深淵運命カード20220501</data>
+    </data>
+    <data name="detail"></data>
+  </data>
+  <node name="cardRoot">
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(01).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(02).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(03).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(04).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(05).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(06).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(07).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(08).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(09).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(10).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(11).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(12).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(13).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(14).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(15).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(16).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(17).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(18).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(19).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(20).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(21).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(22).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(23).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(24).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(25).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(26).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(27).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(28).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(29).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(30).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(31).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(32).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(33).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(34).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(35).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(36).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(37).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(38).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(39).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(40).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(41).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(42).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(43).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(44).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(45).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(46).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(47).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(48).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(49).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(50).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(51).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(52).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(53).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(54).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(55).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(56).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(57).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(58).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(59).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(60).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(61).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(62).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(63).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(64).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(65).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(66).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(67).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(68).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(69).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(70).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(71).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(72).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(73).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(74).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(75).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(76).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(77).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(78).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(79).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(80).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(81).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(82).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(83).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(84).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(85).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(86).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(87).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(88).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(89).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(90).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(91).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+    <card location.name="table" location.x="0" location.y="0" posZ="0" state="0" rotate="0" owner="" zindex="0">
+      <data name="card">
+        <data name="image">
+          <data type="image" name="imageIdentifier"></data>
+          <data type="image" name="front">https://raw.githubusercontent.com/kenken-trpg/fate_card_shinnen2e/main/fate_card_2e_%20(92).png</data>
+          <data type="image" name="back">./assets/images/trump/z02.gif</data>
+        </data>
+        <data name="common">
+          <data name="name">カード</data>
+          <data name="size">2</data>
+        </data>
+        <data name="detail"></data>
+      </data>
+    </card>
+  </node>
+</card-stack>
